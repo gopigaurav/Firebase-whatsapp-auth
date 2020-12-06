@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firebase-whatsapp-auth/static/css/main.3ab7ea1b.chunk.css",
+    "main.js": "/Firebase-whatsapp-auth/static/js/main.265aba23.chunk.js",
+    "main.js.map": "/Firebase-whatsapp-auth/static/js/main.265aba23.chunk.js.map",
+    "runtime-main.js": "/Firebase-whatsapp-auth/static/js/runtime-main.78412c59.js",
+    "runtime-main.js.map": "/Firebase-whatsapp-auth/static/js/runtime-main.78412c59.js.map",
+    "static/js/2.ef9fe56e.chunk.js": "/Firebase-whatsapp-auth/static/js/2.ef9fe56e.chunk.js",
+    "static/js/2.ef9fe56e.chunk.js.map": "/Firebase-whatsapp-auth/static/js/2.ef9fe56e.chunk.js.map",
+    "static/js/3.96cd9cbc.chunk.js": "/Firebase-whatsapp-auth/static/js/3.96cd9cbc.chunk.js",
+    "static/js/3.96cd9cbc.chunk.js.map": "/Firebase-whatsapp-auth/static/js/3.96cd9cbc.chunk.js.map",
+    "index.html": "/Firebase-whatsapp-auth/index.html",
+    "static/css/main.3ab7ea1b.chunk.css.map": "/Firebase-whatsapp-auth/static/css/main.3ab7ea1b.chunk.css.map",
+    "static/js/2.ef9fe56e.chunk.js.LICENSE.txt": "/Firebase-whatsapp-auth/static/js/2.ef9fe56e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78412c59.js",
+    "static/js/2.ef9fe56e.chunk.js",
+    "static/css/main.3ab7ea1b.chunk.css",
+    "static/js/main.265aba23.chunk.js"
+  ]
+}
